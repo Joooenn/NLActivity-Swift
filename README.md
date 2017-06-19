@@ -13,6 +13,7 @@ self.hidenActivity()
 myCell.activity(point: .left)
 myCell.activity(point: .center)
 myCell.activity(point: .right)
+myCell.hidenActivity()
 
 //UIButton
 sender.activityWithStyle(style: .white)
